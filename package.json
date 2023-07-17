@@ -1,0 +1,19 @@
+{
+  "name": "g-presentation",
+  "version": "1.0.0",
+  "description": "Presentation tools for G-Earth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasdesousa/G-Presentation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasdesousa/G-Presentation/issues"
+  },
+  "homepage": "https://github.com/lucasdesousa/G-Presentation#readme"
+}
